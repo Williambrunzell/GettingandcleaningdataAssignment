@@ -4,7 +4,7 @@ Unzip folder to your WD and run script
 
 STEPS TAKEN TO DATA CLEANING
 1. For both the training and test data: The subject ID and Activity ID has been binded to the measurment (variable) data.
-2. Training and test data was minded by row.
+2. Training and test data was binded by row.
 3. All measurments containing mean or standard deviation was selected to a new data set.
 4. Activity labels were added to replace Activity ID.
 5. Acronyms in variables names were replaced with descriptive names
